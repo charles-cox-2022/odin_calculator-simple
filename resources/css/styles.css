@@ -68,10 +68,11 @@ h1 {
 }
 #display {
     display: flex;
-    width: 100%;
+    width: 95%;
     height: 50px;
     padding: 0px;
     border-width: 0px;
-    text-align: center;
+    text-align: end;
     font-size: 24px;
+    padding:5px;
 }
