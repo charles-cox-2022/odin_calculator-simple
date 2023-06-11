@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    color: black;
+}
+#bigBox {
+    background-color: antiquewhite;
+    width: 80vw;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+#gameBox {
+    width: 85%;
+    min-height: 85%;
+    background-color: antiquewhite;
+    border-color: black;
+    border-style: dashed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h5 {
+    padding-top:10px;
+    padding-bottom:0px;
+    margin:0px;
+}
+h1 {
+    padding-top:10px;
+    padding-bottom:10px;
+    margin:0px;
+}
